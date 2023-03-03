@@ -1,0 +1,15 @@
+{
+  "name": "js-11-testing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "getMonth.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.4.3"
+  }
+}
